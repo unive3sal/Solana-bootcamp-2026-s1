@@ -10,10 +10,12 @@
 
 ## 📚 学习平台
 
+
 - [Solana Academy - Solana 大学 2026](https://academy.soldevcamp.com/)
 - [OpenBuild - 2026 Solana 开发者训练营（Season 1）](https://openbuild.xyz/learn/challenges/2086624241)
 - [登链社区 - Solana 技术训练营 2026](https://learnblockchain.cn/article/22690?course_id=94)
 - [HackQuest - 2026 Solana 技术训练营](https://www.hackquest.io/zh-cn/co-learning/f4555852-2b63-4ae1-890c-fb846c39c928)
+- [Blueshift - Solana 公开课](https://learn.blueshift.gg/zh-CN/courses)
 
 ## 🎯 项目简介
 
@@ -155,7 +157,6 @@ Solana 基金会开发者及生态资深导师授课，每周 Office Hour 现场
 ### Task 1 - Task 6
 
 - 直接在 [Blueshift](https://learn.blueshift.gg/zh-CN) 提交并测试通过
-- 完成后填写毕业问卷，我们将与你联系后续招聘等事宜
 - Task 6 为可选项目，非必须
 
 ### 毕业设计
@@ -168,6 +169,12 @@ Solana 基金会开发者及生态资深导师授课，每周 Office Hour 现场
    - Demo/视频
    ...
 4. 提交 Pull Request 合并到本 repo finalProject 文件夹
+
+### 填写毕业问卷
+
+完成任务后，请填写毕业问卷：[https://forms.gle/JeLiYUYfgZwAJUf16](https://forms.gle/JeLiYUYfgZwAJUf16)
+
+我们将与你联系后续招聘等事宜。
 
 ## 🎓 毕业条件
 
